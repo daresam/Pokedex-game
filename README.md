@@ -1,2 +1,2 @@
-## REACT POKE GAME APP
+## A Pokedex Game Built with React
 
